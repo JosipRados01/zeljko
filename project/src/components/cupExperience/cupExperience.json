@@ -1,0 +1,18 @@
+[
+    {
+        "image": "./cupExperience1.png",
+        "frame": "./experienceFrame1.jpg"
+    },
+    {
+        "image": "./cupExperience2.png",
+        "frame": "./experienceFrame1.jpg"
+    },
+    {
+        "image": "./cupExperience3.png",
+        "frame": "./experienceFrame1.jpg"
+    },
+    {
+        "image": "./cupExperience4.png",
+        "frame": "./experienceFrame1.jpg"
+    }
+]

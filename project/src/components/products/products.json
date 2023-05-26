@@ -1,0 +1,16 @@
+[
+    {
+        "frontside": "./product1.jpg",
+        "backside": "./product1underside.jpg"
+    },
+    
+    {
+        "frontside": "./product2.png",
+        "backside": "./product2underside.jpg"
+    },
+    
+    {
+        "frontside": "./product3.jpg",
+        "backside": "./product3underside.jpg"
+    }
+]

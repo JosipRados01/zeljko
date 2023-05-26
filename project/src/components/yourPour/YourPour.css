@@ -1,0 +1,23 @@
+#yourPour {
+    background-color:#EFF5F7 ;
+    padding: 75px 0;
+}
+
+.yourPourText {
+    display: flex;
+    justify-content: space-between;
+    padding: 0 75px ;
+    text-align: left;
+}
+.yourPourText p {
+    font-size: 0.8rem;
+}
+.yourPourText h2 {
+    font-size: 2rem;
+}
+
+.yourPourText button img {
+ width: 1rem;
+ filter: brightness(0.1);
+ margin-bottom: -0.2rem;
+}

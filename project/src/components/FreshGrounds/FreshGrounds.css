@@ -1,0 +1,42 @@
+#freshGrounds {
+    background-color:#EFF5F7 ;
+    overflow-x: hidden;
+    padding: 75px;
+
+}
+.fg_h1 {
+    display: flex;
+}
+
+.fg_h1 h1 {
+    font-size: 5rem;
+    white-space: nowrap;
+    margin: 0;
+    color: #D8E6EB;
+}
+
+.fg_video {
+    border-radius: 15px;
+    max-width: 80%;
+    background-color: black;
+    background-image: url(../../../public/freshGroundsVideoBg.png);
+    background-size: cover;
+    color: white;
+    margin: auto;
+    aspect-ratio: 1290/680;
+}
+.fg_video  p {
+    max-width: 20rem;
+    font-size: 0.8rem;
+}
+.fg_video h3 {
+    font-size: 0.8rem;
+}
+
+.fg_video button img {
+    width: 1rem;
+    aspect-ratio: 1;
+}
+.fg_video button {
+    color: white;
+}

@@ -1,0 +1,27 @@
+[
+    {
+        "className": "homegrounds",
+        "quote": "Homegrounds is a dedicated online platform that caters to coffee enthusiasts, providing a wealth of resources, reviews, and brewing techniques to help coffee lovers create the perfect cup of coffee from the comfort of their homes.",
+        "path": "./homegroundsLogo.png"
+    },
+    {
+        "className": "buzzfeed",
+        "quote": "BuzzFeed is a popular digital media company known for its entertaining and shareable content, covering a wide range of topics from news and quizzes to viral videos and listicles.",
+        "path": "./buzzfeedLogo.png"
+    },
+    {
+        "className": "fastcompany",
+        "quote": "Fast Company is a renowned business media brand that focuses on innovation, leadership, and cutting-edge trends, providing valuable insights and inspiration to professionals across various industries.",
+        "path": "./fastcompanyLogo.png"
+    },
+    {
+        "className": "marthastewart",
+        "quote": "Martha Stewart is a well-known American entrepreneur, television personality, and lifestyle expert, recognized for her expertise in home decor, cooking, entertaining, and crafts, inspiring millions with her creative ideas and attention to detail.",
+        "path": "./marthastewartLogo.png"
+    },
+    {
+        "className": "past",
+        "quote": "Past is a dynamic online publication that delves into history, showcasing captivating stories, in-depth research, and thought-provoking articles that shed light on the past and its influence on the present.",
+        "path": "./pastLogo.png"
+    }
+]
