@@ -3,6 +3,7 @@ import searchIcon from "../../assets/images/search-line.svg"
 import myAccountIcon from "../../assets/images/My Account icon.svg"
 import shoppingBagIcon from "../../assets/images/Shopping bag icon.svg"
 import ESPRO from "../../assets/images/ESPRO Logo.svg"
+import logoZupe from "../../assets/images/logo.png"
 
 function Header() {
   const [isScrolled, setScrolled] = useState(false);
@@ -21,23 +22,20 @@ function Header() {
 
   return (
     <div id='header' className={scrollclass}>
-      <div className='headerBanner'><h3>FREE SHIPPING ON ALL U.S. ORDERS $49+</h3></div>
+      <div className='headerBanner'><h3>Župa Svetog Luke - Novi grad</h3></div>
       <div className='flex-space-between' >
         <div className='container'>
-            <div className='link'><a>SHOP</a></div>
-            <div className='link'><a>OUR STORY</a></div>
+            <div className='link'><a>O ŽUPI</a></div>
+            <div className='link'><a>RED MISA</a></div>
         </div>
         <div className='container'>
-            <figure>
-                <img src={ESPRO} alt='ESPRO' ></img>
+            <figure className='logozupe'>
+                <img src={logoZupe} alt='ESPRO' ></img>
             </figure>
         </div>
         <div className='container'>
-            <div className='link'><a>BREW GUIDES</a></div>
-            <div className='link'><a>BLOG</a></div>
-            <div className='link'><a><img src={searchIcon} alt='search'></img></a></div>
-            <div className='link'><a><img src={myAccountIcon} alt='user'></img></a></div>
-            <div className='link'><a><img src={shoppingBagIcon} alt='buy'></img></a></div>
+            <div className='link'><a>NOVOSTI</a></div>
+            <div className='link'><a>KONTAKT</a></div>
         </div>
       </div>
     </div>

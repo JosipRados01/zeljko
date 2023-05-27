@@ -1,26 +1,26 @@
 [
     {
-        "src": "./galleryImage1.png",
+        "src": "./Slike/redMisa/1.jpg",
         "index": 1
     },
     {
-        "src": "./galleryImage2.png",
+        "src": "./Slike/redMisa/2.jpg",
         "index": 2
     },
     {
-        "src": "./galleryImage3.png",
+        "src": "./Slike/redMisa/3.jpg",
         "index": 3
     },
     {
-        "src": "./galleryImage4.png",
+        "src": "./Slike/redMisa/4.jpg",
         "index": 4
     },
     {
-        "src": "./galleryImage5.png",
+        "src": "./Slike/redMisa/5.jpg",
         "index": 5
     },
     {
-        "src": "./galleryImage6.png",
+        "src": "./Slike/redMisa/6.jpg",
         "index": 6
     }
 ]

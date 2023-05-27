@@ -29,10 +29,10 @@ function YourPour() {
     <div id='yourPour' >
         <div className='yourPourText'>
             <div>
-                <h2>SHOW US YOUR BEST POUR.</h2>
-                <p>Making coffee better — one cup at a time.<br></br> Share your best moments with us #ESPRO</p>
+                <h2>POGLEDAJ NAŠU CRKVU</h2>
+                <p>Ponosni smo na ono što smo izgradili godinama.<br></br>Pogledaj i ti plodove našeg zajedničkog truda.</p>
             </div>
-            <button className='transparentButton'><img src={igIcon} alt='ig' ></img> FOLLOW US ON INSTAGRAM</button>
+            <button className='transparentButton'><img src={igIcon} alt='ig' ></img> POGLEDAJ VIŠE SLIKA</button>
         </div>
 
         

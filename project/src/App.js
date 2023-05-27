@@ -19,11 +19,9 @@ function App() {
     <div className="App">
       <Header></Header>
       <Hero></Hero>
-      <BestSellers array={bestSellersArray} ></BestSellers>
       <ImageGallery></ImageGallery>
       <Products></Products>
       <CupExperience></CupExperience>
-      <Sponsors></Sponsors>
       <FreshGrounds></FreshGrounds>
       <BrewGuides></BrewGuides>
       <YourPour></YourPour>

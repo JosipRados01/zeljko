@@ -4,14 +4,10 @@
     padding: 75px;
 
 }
-.fg_h1 {
-    display: flex;
-}
-
 .fg_h1 h1 {
-    font-size: 5rem;
-    white-space: nowrap;
+    font-size: 4rem;
     margin: 0;
+    margin-bottom: 20px;
     color: #D8E6EB;
 }
 

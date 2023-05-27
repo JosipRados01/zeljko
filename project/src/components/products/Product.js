@@ -1,11 +1,13 @@
 import React from 'react';
 
-function Product({frontSide, backSide}) {
+function Product({naslovna, naslov, tekst, slike}) {
   return (
     <div className='product'>
-        <div className='back'> <img src={backSide} ></img> </div>
-        <div className='front'> <img src={frontSide} ></img> </div>
-        <button className='productButton'>SHOP NOW</button>
+      <figure>
+        <img src={naslovna}></img>
+      </figure>
+      <h2>{naslov}</h2>
+      <h3>{tekst}</h3>
     </div>
   );
 }

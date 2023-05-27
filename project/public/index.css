@@ -89,6 +89,10 @@ p {
     width: 33%;
     height: 50px;
 }
+.logozupe {
+    max-width: 100px;
+    max-height: 50px;
+}
 
 
 
@@ -117,9 +121,15 @@ p {
     color: white;
 }
 
+
 .heroText h1 {
     color: white;
     font-size: 3.5em;
+    text-shadow: 5px 5px 10px rgba(0, 0, 0, 0.7);
+}
+
+.heroText p {
+    text-shadow: 2px 2px 5px rgba(0, 0, 0);
 }
 
 .transparentButton {
@@ -367,7 +377,7 @@ p {
     }
 }
 
-#products>* {
+#products >* {
     margin: 50px 0;
 }
 
@@ -375,56 +385,35 @@ p {
 .product {
     position: relative;
     width: 30%;
-    aspect-ratio: 410/515;
+    aspect-ratio: 400/600;
 }
 
-.product .front,
-.product .back {
-    width: 100%;
-    margin: 0;
+.product figure {
+  margin: 0;
+  width: 100%;
+  aspect-ratio: 4/3;
+  object-fit: cover;
+  object-position: center;
+  overflow: hidden;
+}
+
+.product h2 {
+    font-size: 2rem;
+    margin-top: 1rem;
+}
+
+
+.product h3 {
+    margin-top: 1rem;
+    display: -webkit-box;
     overflow: hidden;
-    aspect-ratio: 410/515;
-    position: absolute;
-    top: 0;
-    left: 0;
-    transition: all 0.5s;
-}
+    text-overflow: ellipsis;
+    -webkit-line-clamp: 4;
+    -webkit-box-orient: vertical;
+    max-height: 4rem; /* Adjust the height as needed */
+  }
 
-.product .front {
-    z-index: 3;
-}
 
-.product .back {
-    z-index: 2;
-}
-
-.product:hover .front {
-    opacity: 0;
-}
-
-.product button {
-    position: absolute;
-    top: 40px;
-    left: 0px;
-    z-index: 2;
-}
-
-.productButton {
-    background-color: rgba(255, 255, 255, 0.611);
-    color: black;
-    border: white;
-    border-radius: 30px;
-    padding: 0.8rem 1.7rem;
-    font-size: 0.6rem;
-    transition: 0.3s all;
-    margin: 1.2rem 0.8rem;
-}
-
-.productButton:hover {
-    background-color: rgba(255, 255, 255, 1);
-    padding: 1rem 2rem;
-    margin: 1rem 0.5rem;
-}
 
 .flex-evenly-row {
     display: flex;
@@ -443,6 +432,11 @@ p {
 #cupExperience>* {
     flex-grow: 1;
     max-width: 50%;
+}
+
+.white {
+    color: white;
+    border-color: white;
 }
 
 .experienceText {

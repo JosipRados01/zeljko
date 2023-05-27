@@ -7,16 +7,12 @@ function BrewGuides() {
   return (
     <div id='brewGuides' >
       <div className='brewGuidesText' >
-        <h3>THE ULTIMATE BREW GUIDES</h3>
-        <h2>COFFEE TO WATER RATIOS: HOW TO MEASURE COFFEE LIKE A PRO</h2>
+        <h3>NAŠA CRKVA DANAS</h3>
+        <h2>"Crkva nije samo svetište, već i bolnica za duše koje trebaju iscjeljenje."</h2>
         <p>
-          <strong>You can taste it when you’ve brewed with the perfect coffee to water ratio.</strong> 
-          The acidity pops every so slightly, enhancing the rich flavors and aromas.
-           Your coffee’s mouthfeel is smooth and satisfying.
-            And the flavor is just strong enough that you can sense all its nuances across your 10,000 taste buds,
-             but not so strong that it’s uncomfortable.<br></br><br></br> It’s an incredible experience—and too often, a hard one to come by.
+          <strong>Župa Svetog Luke</strong>  postala je duhovno središte i simbol zajedništva u svojoj lokalnoj zajednici. Kroz svoje pastoralne programe i angažman u humanitarnim aktivnostima, crkva je pružala duhovnu podršku i pomoć potrebitima. Svećenici i vjernici Župe Svetog Luke izgradili su snažnu zajednicu koja je rasla iz dana u dan, privlačeći vjernike iz okolnih područja. Crkva je postala oaza mira, vjere i nade za sve koji su tražili duhovno ispunjenje.
         </p>
-        <button className='transparentButton'>LEARN MORE</button>
+        <button className='transparentButton'>PROČITAJ VIŠE</button>
       </div>
       <div className='anchor'>
         <figure className='brewGuidesImage'>

@@ -1,16 +1,21 @@
 [
     {
-        "frontside": "./product1.jpg",
-        "backside": "./product1underside.jpg"
+      "naslovna": "./Slike/novosti/sws/naslovna.jpg",
+      "naslov": "Sunday Worship Service",
+      "tekst": "Join us every Sunday morning for a powerful worship service that will uplift your spirit and draw you closer to God. Our talented worship team will lead us in heartfelt praise and worship, creating an atmosphere of joy and reverence. The service will be filled with inspiring messages from our pastor, who will share powerful insights from the Scriptures and practical ways to apply them in our daily lives. Come and experience the presence of God in a vibrant community of believers.",
+      "slike": ["path/to/image1.jpg", "path/to/image2.jpg", "path/to/image3.jpg"]
     },
-    
     {
-        "frontside": "./product2.png",
-        "backside": "./product2underside.jpg"
+      "naslovna": "./Slike/novosti/yni/naslovna.jpg",
+      "naslov": "Youth Night: Ignite",
+      "tekst": "Attention all youth! Get ready for an unforgettable night of fun, fellowship, and spiritual growth at our upcoming Youth Night: Ignite event. We have an exciting lineup of activities planned just for you. Join us for dynamic worship, engaging speakers who will address relevant topics, and interactive small group discussions where you can share your thoughts and questions. We'll also have games, food, and an opportunity to build new friendships. Don't miss out on this chance to connect with other young people and deepen your relationship with God.",
+      "slike": ["path/to/image4.jpg"]
     },
-    
     {
-        "frontside": "./product3.jpg",
-        "backside": "./product3underside.jpg"
+      "naslovna": "./Slike/novosti/cos/naslovna.jpg",
+      "naslov": "Community Outreach: Serve Day",
+      "tekst": "Let's make a positive impact on our community together! Join us for our upcoming Serve Day, where we will come together as a church to serve and bless those in need. We will engage in various outreach activities such as distributing food to the homeless, cleaning up local parks, and organizing a clothing drive for those less fortunate. This is a wonderful opportunity to demonstrate God's love through practical acts of kindness. Bring your family, friends, and neighbors to be a part of this meaningful day as we make a difference in the lives of others and spread hope and compassion.",
+      "slike": ["path/to/image5.jpg", "path/to/image6.jpg"]
     }
-]
+  ]
+  
