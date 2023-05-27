@@ -1,15 +1,15 @@
 [
     {
-      "naslovna": "./Slike/novosti/sws/naslovna.jpg",
-      "naslov": "Sunday Worship Service",
-      "tekst": "Join us every Sunday morning for a powerful worship service that will uplift your spirit and draw you closer to God. Our talented worship team will lead us in heartfelt praise and worship, creating an atmosphere of joy and reverence. The service will be filled with inspiring messages from our pastor, who will share powerful insights from the Scriptures and practical ways to apply them in our daily lives. Come and experience the presence of God in a vibrant community of believers.",
-      "slike": ["path/to/image1.jpg", "path/to/image2.jpg", "path/to/image3.jpg"]
+      "naslovna": "./Slike/novosti/kssb/naslovna.jpg",
+      "naslov": "KATOLIČKI SKAUTI SVETOG BERNARDA",
+      "tekst": "U ponedjeljak, 15. svibnja Katolički sakuti Svetog Bernarda iz župe sv. Luke Evanđeliste iz Sarajeva zajedno sa skautima iz župe Presvetog Trojstva iz Novog Travnika organizirali su u projekciji filma The Letter, u sklopu projektnih aktivnosti Zelena akademija Laudato si’ – koju provodi Centra za mirovno obrazovanje – CMO.Nakon projekcije svi skauti prisustvovali su večernjoj misi, te nastavili druženje uz prigodni domjenak i razmjenu mišljenja o pogledanoj ekranizaciji. Papa Franjo 2015. godine izdao je encikliku Laudato si' - O brizi za zajednički dom koja je pobudila veliko zanimanje među vjernicima Katoličke Crkve i u akademskoj zajednici. Kako bi se enciklika mogla što bolje razumjeti, u radu se opisuju njezina tri glavna obilježja: dijalog razuma i vjere, sveopće zajedništvo te nerazdvojiva povezanost ekonomije, ekologije i siromaštva. Prvo obilježje enciklike tiče se suradnje s eminentnim znanstvenicima koja je rezulitrala tekstom prvog poglavlja enciklike. Drugo obilježje odnosi se na povezanost svih stvorenja na sivjetu koja proizlazi iz Božjega čina stvaranja, a treće na nerazdvojivu povezanost ekonomije, ekologije i siromaštva. Sva su tri obilježja enciklike u funckiji promicanja cjelovite ekologije kao jedine alternative dominantnoj paradigmi tržišne ekonomije i odnosu prema okolišu.",
+      "slike": ["path/to/image4.jpg"]
     },
     {
-      "naslovna": "./Slike/novosti/yni/naslovna.jpg",
-      "naslov": "Youth Night: Ignite",
-      "tekst": "Attention all youth! Get ready for an unforgettable night of fun, fellowship, and spiritual growth at our upcoming Youth Night: Ignite event. We have an exciting lineup of activities planned just for you. Join us for dynamic worship, engaging speakers who will address relevant topics, and interactive small group discussions where you can share your thoughts and questions. We'll also have games, food, and an opportunity to build new friendships. Don't miss out on this chance to connect with other young people and deepen your relationship with God.",
-      "slike": ["path/to/image4.jpg"]
+      "naslovna": "./Slike/novosti/oel/naslovna.jpg",
+      "naslov": "Ora et Labora",
+      "tekst": "Akcija čišćenja 🙂 Koja ruka više ne bi bila na odmet. Dobro došli pomoći u čišćenju župnog dvorištaAkcija čišćenja 🙂 Koja ruka više ne bi bila na odmet.. Dobro došli pomoći u čišćenju župnog dvorišta",
+      "slike": ["./Slike/novosti/kssb/1.jpg", "./Slike/novosti/kssb/e2.jpg", "./Slike/novosti/kssb/3.jpg", "./Slike/novosti/kssb/4.jpg"]
     },
     {
       "naslovna": "./Slike/novosti/cos/naslovna.jpg",

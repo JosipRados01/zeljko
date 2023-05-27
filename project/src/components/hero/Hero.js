@@ -3,16 +3,11 @@ import downArrow from "../../assets/images/arrow-right-short.svg";
 import pourImage from "../../assets/images/2132C2_6.png";
 import naslovna from "../../assets/images/naslovna.jpeg";
 import naslovna2 from "../../assets/images/naslovna2.webp";
+import smoothScrollTo from "../smoothScrollToFunction"
 
 import { Parallax } from 'react-parallax';
 
 function Hero() {
-
-  const smoothScrollToBestSellers = () => {
-    const bestSellersElement = document.getElementById('bestsellers');
-    bestSellersElement.scrollIntoView({ behavior: 'smooth' });
-  };
-  
 
   return (
     <div className='parallax' >
@@ -26,7 +21,7 @@ function Hero() {
             "Žetva je velika, ali radnika malo. Molite dakle gospodara žetve da radnike pošalje u žetvu svoju."      
             </p>
           </div>
-          <div className='exploreTag' onClick={smoothScrollToBestSellers}>
+          <div className='exploreTag' onClick={()=> {smoothScrollTo("imageGallery")}}>
             <span>ISTRAŽI</span>
             <img src={downArrow} ></img>
           </div>

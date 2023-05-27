@@ -1,18 +1,17 @@
 [
     {
-        "image": "./cupExperience1.png",
-        "frame": "./experienceFrame1.jpg"
+        "image": "./Slike/povjestCrkveSlike/1.jpg"
     },
     {
-        "image": "./cupExperience2.png",
-        "frame": "./experienceFrame1.jpg"
+        "image": "./Slike/povjestCrkveSlike/2.jpg"
     },
     {
-        "image": "./cupExperience3.png",
-        "frame": "./experienceFrame1.jpg"
+        "image": "./Slike/povjestCrkveSlike/3.jpg"
     },
     {
-        "image": "./cupExperience4.png",
-        "frame": "./experienceFrame1.jpg"
+        "image": "./Slike/povjestCrkveSlike/4.jpg"
+    },
+    {
+        "image": "./Slike/povjestCrkveSlike/5.jpg"
     }
 ]

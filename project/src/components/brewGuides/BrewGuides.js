@@ -1,6 +1,7 @@
 import React from 'react';
 import "./BrewGuides.css"
 import kruzic from "./Group6.svg"
+import spinner from "./spinner.png"
 
 function BrewGuides() {
     
@@ -16,7 +17,7 @@ function BrewGuides() {
       </div>
       <div className='anchor'>
         <figure className='brewGuidesImage'>
-          <img src={kruzic}></img>
+          <img src={spinner}></img>
         </figure>
       </div>
     </div>

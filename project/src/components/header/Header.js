@@ -4,6 +4,7 @@ import myAccountIcon from "../../assets/images/My Account icon.svg"
 import shoppingBagIcon from "../../assets/images/Shopping bag icon.svg"
 import ESPRO from "../../assets/images/ESPRO Logo.svg"
 import logoZupe from "../../assets/images/logo.png"
+import smoothScrollTo from "../smoothScrollToFunction"
 
 function Header() {
   const [isScrolled, setScrolled] = useState(false);
@@ -25,17 +26,17 @@ function Header() {
       <div className='headerBanner'><h3>Župa Svetog Luke - Novi grad</h3></div>
       <div className='flex-space-between' >
         <div className='container'>
-            <div className='link'><a>O ŽUPI</a></div>
-            <div className='link'><a>RED MISA</a></div>
+            <div className='link' onClick={ ()=> {smoothScrollTo("cupExperience")} }>O ŽUPI</div>
+            <div className='link' onClick={ ()=> {smoothScrollTo("imageGallery")} }>RED MISA</div>
         </div>
         <div className='container'>
-            <figure className='logozupe'>
+            <figure className='logozupe' onClick={ ()=> {smoothScrollTo("hero")}} >
                 <img src={logoZupe} alt='ESPRO' ></img>
             </figure>
         </div>
         <div className='container'>
-            <div className='link'><a>NOVOSTI</a></div>
-            <div className='link'><a>KONTAKT</a></div>
+            <div className='link' onClick={ ()=> {smoothScrollTo("products")} }>NOVOSTI</div>
+            <div className='link' onClick={ ()=> {smoothScrollTo("footer")} }>KONTAKT</div>
         </div>
       </div>
     </div>

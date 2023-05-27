@@ -30,7 +30,6 @@ useEffect( ()=> {
         </div>
         <div className='experienceImage'>
             <img className='inset' src={showing.image} ></img>
-            <img className='frame' src={showing.frame} ></img>
         </div>
     </div>
   );
